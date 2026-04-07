@@ -1,4 +1,4 @@
-### Hi there 👋, Ahosanul Haque Noor 
+ Ahosanul Haque Noor 
 #### Mern Stack || Web  Developer
 ![Mern Stack || Web  Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/667772886_122120631393179832_5312462803183137999_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeGXKju3axdcGp-Xv9aVyR1E7bv3nL-8fkbtu_ecv7x-Rk-7bmjVA1q6xTKYVVKyCzkOOwTbTkBjYjAP4TrPuHQn&_nc_ohc=8aC4fkgxPYwQ7kNvwE3NXtR&_nc_oc=Ado_v26OXInCGYFHdTgJIHTd_kRTLbnB5o6ejZu4z-JSniJWOQl3QerssZZl4yJbuQ4&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=EFteIJF4qBTYSjBWFXsN5A&_nc_ss=7a3a8&oh=00_Af066vRcS70hKO4Z2LyVNFfcwy1JJm14A2KDzLxLr9c1Cw&oe=69DB07A8)
 
@@ -26,3 +26,15 @@ Skills: NEXT JS / REACT / JS / HTML / CSS/MONGO DB/API INTREGRATION/REACT ROUTER
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/noorispeace1)  
 
+<h3 align="center">📊 My GitHub Statistics</h3>
+<p align="center">
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=noorispeace1&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorispeace1&layout=compact&theme=tokyonight" alt="Top Langs" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img width="100%" src="https://streak-stats.demolab.com/?user=noorispeace1&theme=tokyonight" alt="Streak Stats" /></td>
+  </tr>
+</table>
+</p>
