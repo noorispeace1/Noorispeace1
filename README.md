@@ -1,72 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=220&section=header&text=Ahosanul%20Haque%20Noor&fontSize=50&animation=fadeIn&fontAlignY=38" alt="Ahosanul Haque Noor" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ahosanul%20Haque%20Noor&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN--Stack--Developer-orange?style=for-the-badge" alt="MERN Stack Developer Badge" />
-  <img src="https://komarev.com/ghpvc/?username=[এখানে_আপনার_ইউজারনেম_বসাও]&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=noorispeace1&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
-## 👋 Hey There! I'm Noor
-
-I'm a passionate **MERN Stack Developer** and **Frontend Enthusiast** from Bangladesh. I love turning ideas into scalable, user-friendly web applications. My focus is on clean UI, smooth UX, and efficient backend integration.
-
-- 🔭 **Working on:** Technical content and modern web apps.
-- 🌱 **Learning:** Cloud computing (AWS) and Advanced Node.js.
-- 👯 **Collaborating on:** GitHub and Open Source Projects.
-
----
-
-## 🛠 Tech Stack
-
-I believe in using the right tool for the job. Here's a graphical representation of the technologies I use:
+# 👋 Hi there, I'm Ahosanul Haque Noor 
+### 🚀 MERN Stack || Full-Stack Web Developer
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,postman,figma" />
+  <img src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/667772886_122120631393179832_5312462803183137999_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeGXKju3axdcGp-Xv9aVyR1E7bv3nL-8fkbtu_ecv7x-Rk-7bmjVA1q6xTKYVVKyCzkOOwTbTkBjYjAP4TrPuHQn&_nc_ohc=8aC4fkgxPYwQ7kNvwE3NXtR&_nc_oc=Ado_v26OXInCGYFHdTgJIHTd_kRTLbnB5o6ejZu4z-JSniJWOQl3QerssZZl4yJbuQ4&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=EFteIJF4qBTYSjBWFXsN5A&_nc_ss=7a3a8&oh=00_Af066vRcS70hKO4Z2LyVNFfcwy1JJm14A2KDzLxLr9c1Cw&oe=69DB07A8" width="100%" alt="Noor Banner" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats
+### 👨‍💻 About Me
 
-*(Replace `[এখানে_আপনার_ইউজারনেম_বসাও]` with your actual username in the links below)*
+I'm a passionate **Frontend & MERN Stack Developer** from Bangladesh who loves building modern, responsive, and user-friendly applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-<p align="center">
-  <table align="center" style="width: 100%; max-width: 900px; border-collapse: collapse; background-color: transparent;">
-    <tr>
-      <td align="center" style="width: 50%; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=[এখানে_আপনার_ইউজারনেম_বসাও]&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00d2ff&icon_color=ff9e64&text_color=9ece6a" alt="My GitHub Stats" style="width: 100%; height: auto;" />
-      </td>
-      <td align="center" style="width: 50%; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[এখানে_আপনার_ইউজারনেম_বসাও]&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff&text_color=c0caf5" alt="Top Languages" style="width: 100%; height: auto;" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://streak-stats.demolab.com/?user=[এখানে_আপনার_ইউজারনেম_বসাও]&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=EB4D4B&currStreakLabel=FFEBEE" alt="Commit Streak" style="width: 100%; height: auto;" />
-      </td>
-    </tr>
-  </table>
+* 🔭 **Currently working on:** Technical content for [AhsanCodeLab](https://www.youtube.com/@AhsanCodeLab)
+* 🌱 **Currently learning:** AWS, Node.js & Performance Optimization
+* 👯 **Open to collaborate on:** Open Source Projects & Agentic AI
+* 💬 **Ask me about:** React, Next.js, JavaScript, and Tailwind CSS
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" />
+</p>
+
+**Backend & Database:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+**Tools & Others:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,figma,postman,vscode,npm" />
 </p>
 
 ---
 
-## 📫 Connect with Me
-
-<p align="center" style="padding: 10px 0;">
-  <a href="https://github.com/[এখানে_আপনার_ইউজারনেম_বসাও]">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/ahosanul-haque-noor">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 5px;" />
-  </a>
-  <a href="https://www.youtube.com/@AhsanCodeLab">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 0 5px;" />
-  </a>
-</p>
-
-<br>
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[এখানে_আপনার_ইউজারনেম_বসাও]&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=noorispeace1&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorispeace1&layout=compact&theme=tokyonight" alt="Top Langs" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img width="100%" src="https://streak-stats.demolab.com/?user=noorispeace1&theme=tokyonight" alt="Streak Stats" /></td>
+  </tr>
+</table>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ahosanul-haque-noor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/noorispeace1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.youtube.com/@AhsanCodeLab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=noorispeace1&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Trophies" />
 </p>
