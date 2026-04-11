@@ -59,6 +59,29 @@ const noor = {
 
 
 
+;
+🛠️ Tech Stack
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 GitHub Stats & Growth
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=noorispeace1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorispeace1&theme=tokyonight&hide_border=true&background=0D1117" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorispeace1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="70%" /> </p>
+📊 Contribution Graph
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noorispeace1/noorispeace1/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noorispeace1/noorispeace1/output/github-contribution-grid-snake.svg"> <img src="https://raw.githubusercontent.com/noorispeace1/noorispeace1/output/github-contribution-grid-snake.svg" width="100%"> </picture> </p>
+🌐 Connect With Me
+<p align="left"> <a href="https://linkedin.com/in/ahosanul-haque-noor" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/noorispeace1" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:Ahosanulhaquenoor@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.youtube.com/@AhsanCodeLab" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a> </p> ```
