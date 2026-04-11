@@ -18,3 +18,35 @@ const noor = {
   learning: ["System Design", "Advanced Backend"],
   goal: "Top 1% Developer 🚀"
 };
+## 👨‍💻 About Me
+
+I'm a passionate **MERN Stack Developer** from **Bangladesh 🇧🇩** who loves building modern, responsive, and user-friendly applications.
+
+- 🔭 Working on: **AhsanCodeLab (YouTube Content)**
+- 🌱 Learning: **AWS, Advanced Backend & Performance Optimization**
+- 👯 Open to: **Open Source & Collaboration**
+- 💬 Ask me about: **React, Next.js, Tailwind, JavaScript**
+
+---
+
+## 🧠 Developer Identity
+
+```js
+const noor = {
+  name: "Ahosanul Haque Noor",
+  username: "noorispeace1",
+  location: "Bangladesh 🇧🇩",
+  role: "Full-Stack MERN Developer",
+
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+
+  tech: {
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB"],
+    tools: ["Git", "GitHub", "VS Code", "Firebase"]
+  },
+
+  learning: ["System Design", "Advanced Backend"],
+  goal: "Top 1% Developer 🚀"
+};
