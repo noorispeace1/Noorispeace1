@@ -57,3 +57,12 @@ const noor = {
   learning: ["System Design", "Advanced Backend"],
   goal: "Top 1% Developer 🚀"
 };
+
+##🛠 TECH STACK
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</p>
