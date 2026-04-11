@@ -1,32 +1,38 @@
-<!-- 🔥 Animated Header Banner -->
+
+<!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=220&section=header&text=Ahosanul%20Haque%20Noor&fontSize=50&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=280&section=header&text=Ahosanul%20Haque%20Noor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=60&descAlign=50"/>
 </p>
 
-<!-- 👀 Profile Views -->
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noorispeace1&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
-</p>
-
-<!-- 👋 Intro -->
-<h1 align="center">👋 Hi, I'm Ahosanul Haque Noor</h1>
-<h3 align="center">🚀 MERN Stack | Full-Stack Web Developer</h3>
-
-<!-- 🖼️ Banner Image -->
-<p align="center">
-  <img src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/667772886_122120631393179832_5312462803183137999_n.png" width="100%" alt="Noor Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahosanul+Haque+Noor;MERN+Stack+Developer;Frontend+Lover;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h3 align="center">🚀 Aspiring MERN Stack Developer</h3>
 
-I'm a passionate **MERN Stack Developer** from **Bangladesh 🇧🇩** who loves building modern, responsive, and user-friendly applications.
+<p align="center">
+📍 Bangladesh 🇧🇩 &nbsp; | &nbsp; 🎓 Programming Hero — Level 1
+</p>
 
-- 🔭 Working on: **AhsanCodeLab (YouTube Content)**
-- 🌱 Learning: **AWS, Advanced Backend & Performance Optimization**
-- 👯 Open to: **Open Source & Collaboration**
-- 💬 Ask me about: **React, Next.js, Tailwind, JavaScript**
+---
+
+<!-- 🔥 BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noorispeace1&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/noorispeace1?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/noorispeace1?style=for-the-badge"/>
+</p>
+
+## 🧑‍💻 About Me
+
+- 🔭 Building real-world projects with **React.js & Tailwind CSS**
+- 🌱 Learning **Node.js & MongoDB**
+- 🔥 Passionate about **Clean UI & Full-Stack Development**
+- ⚡ From **Green University Of Bangladesh → GUB**
+- 📫 Reach me at **Ahosanulhaquenoor@gmail.com**
 
 ---
 
@@ -42,7 +48,7 @@ const noor = {
   stack: ["MongoDB", "Express", "React", "Node.js"],
 
   tech: {
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind"],
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
     backend: ["Node.js", "Express"],
     database: ["MongoDB"],
     tools: ["Git", "GitHub", "VS Code", "Firebase"]
