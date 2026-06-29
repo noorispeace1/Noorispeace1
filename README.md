@@ -1,19 +1,19 @@
 <!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=280&section=header&text=Ahosanul%20Haque%20Noor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e75b6&height=280&section=header&text=Ahosanul%20Haque%20Noor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descAlign=50"/>
 </p>
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahosanul+Haque+Noor;MERN+Stack+Developer;Frontend+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Scalable+Backends;Crafting+Premium+User+Interfaces;Next.js,+Node,+PostgreSQL,+Docker" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Aspiring MERN Stack Developer</h3>
+<h3 align="center">🚀 Architecting Robust Web Applications & Localized Platforms</h3>
 
 <p align="center">
-📍 Bangladesh 🇧🇩 &nbsp; | &nbsp; 🎓 Programming Hero — Level 1
+📍 Bangladesh 🇧🇩 &nbsp; | &nbsp; 🎓 Green University of Bangladesh (GUB)
 </p>
 
 ---
@@ -27,36 +27,49 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Building real-world projects with **React.js & Tailwind CSS**
-- 🌱 Learning **Node.js & MongoDB**
-- 🔥 Passionate about **Clean UI & Full-Stack Development**
-- ⚡ From **Green University Of Bangladesh → GUB**
-- 📫 Reach me at **Ahosanulhaquenoor@gmail.com**
+- 🔭 **Currently Building:** E-commerce platforms (Aurelia-Summer), productivity tools (KeenKeeper), and dynamic news portals (Standard News).
+- ⚡ **Specialty:** Bridging scalable backend architecture with clean, enterprise-grade, interactive UIs using **Next.js, Framer Motion, and GSAP**.
+- 🌱 **Learning & Exploring:** Cloud infrastructure with **AWS** and containerization with **Docker**.
+- 📫 **Reach me at:** Ahosanulhaquenoor@gmail.com
+
+---
+
+## 🛠️ Technical Arsenal
+
+<p align="center">
+  <strong>Frontend Architecture</strong><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <strong>Backend & Databases</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma&theme=dark" />
+</p>
+
+<p align="center">
+  <strong>DevOps & Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,firebase&theme=dark" />
+</p>
 
 ---
 
 ## 🧠 Developer Identity
 
-```js
-const noor = {
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  focus: string[];
+}
+
+const noor: Developer = {
   name: "Ahosanul Haque Noor",
-  username: "noorispeace1",
+  role: "Full-Stack Web Developer",
   location: "Bangladesh 🇧🇩",
-  role: "Full-Stack MERN Developer",
-
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-
-  tech: {
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB"],
-    tools: ["Git", "GitHub", "VS Code", "Firebase"]
-  },
-
-  learning: ["System Design", "Advanced Backend"],
-  goal: "Top 1% Developer 🚀"
+  focus: [
+    "Building type-safe backends with Node.js, PostgreSQL, and Prisma",
+    "Crafting high-end, interactive interfaces with Next.js & Tailwind CSS",
+    "Deploying scalable applications using Docker & AWS"
+  ]
 };
-
-
----
-
