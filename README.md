@@ -1,6 +1,7 @@
 <!-- 🎨 Tech & Hacker Vibe Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/PZ04Yybr/Gemini-Generated-Image-azitu8azitu8azit.png" alt="Ahosanul Haque Noor - Full-Stack Developer Banner" width="100%">
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/70797d32-63f1-46d1-bd13-70dcfc890c77" />
+
 </p>
 
 <!-- 💬 Typing Animation -->
