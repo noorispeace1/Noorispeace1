@@ -57,14 +57,8 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noorispeace1&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e&icon_color=3B82F6" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorispeace1&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8b949e" alt="Top Languages" />
-</p>
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/6ae53c33-44d5-4ba4-96c4-24da38e28e96" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorispeace1&bg_color=00000000&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
 
 ---
 
