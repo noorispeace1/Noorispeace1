@@ -1,11 +1,13 @@
-<!-- 🔥 Animated Banner -->
+<!-- 🎨 Tech & Hacker Vibe Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e75b6&height=280&section=header&text=Ahosanul%20Haque%20Noor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descAlign=50"/>
+  <img src="your-banner-url-here.png" alt="Ahosanul Haque Noor - Full-Stack Developer Banner" width="100%">
 </p>
 
-<!-- 🔥 Typing Animation -->
+<!-- 💬 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Scalable+Backends;Crafting+Premium+User+Interfaces;Next.js,+Node,+PostgreSQL,+Docker" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Scalable+Backends;Crafting+Premium+User+Interfaces;Next.js,+Node,+PostgreSQL,+Docker" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -18,11 +20,11 @@
 
 ---
 
-<!-- 🔥 BADGES -->
+<!-- 📈 Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noorispeace1&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
-  <img src="https://img.shields.io/github/followers/noorispeace1?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/noorispeace1?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=noorispeace1&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/noorispeace1?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/noorispeace1?style=for-the-badge" alt="Stars" />
 </p>
 
 ## 🧑‍💻 About Me
@@ -38,17 +40,17 @@
 
 <p align="center">
   <strong>Frontend Architecture</strong><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend Skills" />
 </p>
 
 <p align="center">
   <strong>Backend & Databases</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma&theme=dark" alt="Backend Skills" />
 </p>
 
 <p align="center">
   <strong>DevOps & Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,firebase&theme=dark" alt="Tools" />
 </p>
 
 ---
@@ -83,3 +85,4 @@
 <p align="center">
   <i>Let's build something amazing together. 🚀</i>
 </p>
+```http://googleusercontent.com/image_generation_content/302
