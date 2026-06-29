@@ -1,6 +1,6 @@
 <!-- 🎨 Tech & Hacker Vibe Banner -->
 <p align="center">
-<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/70797d32-63f1-46d1-bd13-70dcfc890c77" />
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/1a1db44c-d521-45c5-949e-5cd6ca64059d" />
 
 </p>
 
