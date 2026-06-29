@@ -1,4 +1,4 @@
-<!-- 🎨 Tech & Hacker Vibe Banner -->
+<!-- 🎨 Professional Simple Vibe Banner -->
 <p align="center">
   <img src="your-banner-url-here.png" alt="Ahosanul Haque Noor - Full-Stack Developer Banner" width="100%">
 </p>
@@ -85,4 +85,4 @@
 <p align="center">
   <i>Let's build something amazing together. 🚀</i>
 </p>
-```http://googleusercontent.com/image_generation_content/302
+```http://googleusercontent.com/image_generation_content/304
