@@ -29,29 +29,27 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 **Currently Building:** E-commerce platforms (Aurelia-Summer), productivity tools (KeenKeeper), and dynamic news portals (Standard News).
+- 🌍 **Base of Operations:** Dhanmondi, Dhaka, Bangladesh 🇧🇩
 - ⚡ **Specialty:** Bridging scalable backend architecture with clean, enterprise-grade, interactive UIs using **Next.js, Framer Motion, and GSAP**.
-- 🌱 **Learning & Exploring:** Cloud infrastructure with **AWS** and expanding my backend expertise with **Node.js**.
-- 📫 **Reach me at:** Ahosanulhaquenoor@gmail.com
+- 🌱 **Learning & Exploring:** Cloud infrastructure with **AWS** and containerization with **Docker**.
+- 📫 **Reach me at:** [ahosanulhaquenoor@gmail.com](mailto:ahosanulhaquenoor@gmail.com)
 
 ---
 
-## 🛠️ Technical Expertise
+## 🚀 Featured Projects
 
-<p align="center">
-  <strong>Frontend Architecture</strong><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend Skills" />
-</p>
+- 🛒 **Aurelia-Summer:** A premium e-commerce platform specializing in seasonal products. Built with a scalable database architecture, seamless authentication, and a high-end UI/UX.
+- 🤝 **KeenKeeper:** A smart personal assistant web application designed to help users track social interactions, set reminders, and maintain meaningful relationships.
+- 📰 **Standard News:** A high-performance, dynamic localized news portal equipped with breaking news tickers, robust routing, and advanced SEO optimization.
 
-<p align="center">
-  <strong>Backend & Databases</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark" alt="Backend Skills" />
-</p>
+---
 
-<p align="center">
-  <strong>DevOps & Architecture</strong><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,firebase&theme=dark" alt="Tools" />
-</p>
+## 🛠️ Technical Arsenal
+
+- **Frontend:** Next.js, React.js, TypeScript, Tailwind CSS, Framer Motion, GSAP, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database & ORM:** PostgreSQL, MongoDB, SQL, Prisma
+- **DevOps, Cloud & Tools:** Docker, AWS, Git, GitHub, VS Code, Firebase
 
 ---
 
