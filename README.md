@@ -1,7 +1,7 @@
 
 <!-- 🎨 Tech & Hacker Vibe Banner -->
 <p align="center">
-  <img src="Uploading Gemini_Generated_Image_azitu8azitu8azit.png…" width="100%">
+  <img src="  <img src="[Uploading Gemini_Generated_Image_azitu8azitu8azit.png…](https://i.ibb.co.com/PZ04Yybr/Gemini-Generated-Image-azitu8azitu8azit.png)" width="100%">" width="100%">
 </p>
 
 <!-- 💬 Typing Animation -->
