@@ -53,23 +53,33 @@
 
 ---
 
-## 🧠 Developer Identity
+## 📊 GitHub Analytics
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  focus: string[];
-}
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noorispeace1&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&text_color=8b949e&icon_color=0E75B6" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorispeace1&layout=compact&theme=transparent&hide_border=true&title_color=0E75B6&text_color=8b949e" alt="Top Languages" />
+</p>
 
-const noor: Developer = {
-  name: "Ahosanul Haque Noor",
-  role: "Full-Stack Web Developer",
-  location: "Bangladesh 🇧🇩",
-  focus: [
-    "Building type-safe backends with Node.js, PostgreSQL, and Prisma",
-    "Crafting high-end, interactive interfaces with Next.js & Tailwind CSS",
-    "Deploying scalable applications using Docker & AWS"
-  ]
-};
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorispeace1&bg_color=00000000&color=0E75B6&line=0E75B6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:ahosanulhaquenoor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahosanul-haque-noor-b4a02b2a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@AhosanulHaqueNoor-j5i">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together. 🚀</i>
+</p>
