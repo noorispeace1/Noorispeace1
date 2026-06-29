@@ -1,6 +1,6 @@
 <!-- 🎨 Tech & Hacker Vibe Banner -->
 <p align="center">
-  <img src="Gemini_Generated_Image_z0jqq7z0jqq7z0jq.png" alt="Ahosanul Haque Noor - Full-Stack Developer Banner" width="100%">
+  <img src="banner.png" alt="Ahosanul Haque Noor - Full-Stack Developer Banner" width="100%">
 </p>
 
 <!-- 💬 Typing Animation -->
@@ -55,7 +55,11 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Hacker Vibe)
+
+<p align="center">
+  <img src="https://img.icons8.com/wired/64/000000/network-security.png" alt="NetSec Icon" width="32" style="vertical-align: middle;" /> <strong style="color: #0E75B6; font-family: 'Courier New', monospace;">Datastream Monitor [Hacker Mode: Active]</strong>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noorispeace1&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&text_color=8b949e&icon_color=0E75B6" alt="GitHub Stats" />
@@ -66,20 +70,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorispeace1&bg_color=00000000&color=0E75B6&line=0E75B6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
-<!-- Additional 'Hacker Vibe' Charts and Visualizations -->
 <p align="center">
-  <img src="https://img.icons8.com/wired/64/000000/network-security.png" alt="NetSec Icon" width="32" style="vertical-align: middle;" /> <strong style="color: #0E75B6; font-family: 'Courier New', monospace;">Datastream Monitor [Hacker Mode: Active]</strong>
-</p>
-<p align="center">
-  <img src="https://denvercoder9.github.io/github-readme-activity-graph/graph?username=noorispeace1&bg_color=00000000&color=0E75B6&line=0E75B6&point=ffffff&area=true&hide_border=true&theme=react&height=180" alt="GitHub Activity Graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noorispeace1&theme=react&border_color=transparent" alt="Profile Details" height="180" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noorispeace1&theme=react&border_color=transparent" alt="Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noorispeace1&theme=react&border_color=transparent&utcOffset=6" alt="Productive Time" height="180" />
 </p>
+
 <p align="center" style="font-family: 'Courier New', monospace; color: #8b949e;">
-  [Fictional Network Packet Throughput: 14.5 TB/h] | [System Fingerprint Audit Score: 98.7%]
+  [System Fingerprint Audit Score: 98.7%] | [Deployment Status: Active]
 </p>
 
 ---
